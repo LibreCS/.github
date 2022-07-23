@@ -7,9 +7,10 @@
 We develop open-source software tools and systems to bring enterprise features, performance, and reliability to professionals and enthusiasts by pursuing projects inclusive to low resource environments and non-standard process architectures.
 
 ### Future Projects
+- pitify - Remote connect Spotify daemon for Raspberry Pi
 - plcd - Lightweight program to monitor and log PLC (Programmable Logic Controller) uptime
 - vqgarm - VQGAN + CLIP implementation for testing arm64 processors
-- spodockerify - Remote connect Spotify daemon in a Docker container
+
 
 ### Use and Contribution
 
