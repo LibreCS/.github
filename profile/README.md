@@ -1,6 +1,6 @@
 # LibreCS
 
-![banner](../banner.jpeg)
+![banner](https://github.com/LibreCS/.github/blob/main/banner.jpeg)
 
 ### Developing open-source solutions with enterprise level performance and reliability
 
