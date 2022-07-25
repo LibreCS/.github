@@ -1,6 +1,6 @@
 # LibreCS
 
-![banner](../banner.png)
+![banner](../banner.jpeg)
 
 ### Developing open-source solutions with enterprise level performance and reliability
 
