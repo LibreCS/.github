@@ -8,11 +8,10 @@ We develop open-source software tools and systems to bring enterprise features, 
 
 ### Current projects
 - plcd - Lightweight program to monitor and log PLC (Programmable Logic Controller) uptime remotely
+- vqgarm - VQGAN + CLIP implementation for testing arm64 processors
 
 ### Future Projects
 - pitify - Remote connect Spotify daemon for full-time audio control using Raspberry Pi
-- vqgarm - VQGAN + CLIP implementation for testing arm64 processors
-
 
 ### Use and Contribution
 
