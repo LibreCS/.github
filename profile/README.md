@@ -11,7 +11,7 @@ We develop open-source software tools and systems to bring enterprise features, 
 - vqgarm - VQGAN + CLIP implementation for testing arm64 processors
 
 ### Future Projects
-- pitify - Remote connect Spotify daemon for full-time audio control using Raspberry Pi
+- libregpt - Natural langauge chatbot for information about open-source software development
 
 ### Use and Contribution
 
