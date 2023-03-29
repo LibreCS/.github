@@ -9,6 +9,7 @@ We develop open-source software tools and systems to bring enterprise features, 
 ### Current projects
 - plcd - Lightweight program to monitor and log PLC (Programmable Logic Controller) uptime remotely
 - vqgarm - VQGAN + CLIP implementation for testing arm64 processors
+- nlmate - Data scraping, preprocessing, and tagging for NLM training
 
 ### Future Projects
 - libregpt - Natural langauge chatbot for information about open-source software development
