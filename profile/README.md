@@ -12,7 +12,7 @@ We develop open-source software tools and systems to bring enterprise features, 
 - nlmate - Data scraping, preprocessing, and tagging for NLM training
 
 ### Future Projects
-- libregpt - Natural langauge chatbot for information about open-source software development
+- 
 
 ### Use and Contribution
 
