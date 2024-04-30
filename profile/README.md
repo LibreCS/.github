@@ -9,10 +9,7 @@ We develop open-source software tools and systems to bring enterprise features, 
 ### Current projects
 - plcd - Lightweight program to monitor and log PLC (Programmable Logic Controller) uptime remotely
 - vqgarm - VQGAN + CLIP implementation for testing arm64 processors
-- nlmate - Data scraping, preprocessing, and tagging for NLM training
-
-### Future Projects
-- 
+- atc - Air Traffic Control ASR transcription, dataset tagging, and LLM training
 
 ### Use and Contribution
 
